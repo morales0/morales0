@@ -13,7 +13,7 @@ I'm morales0 (aka Francisco) and I kinda like to code.
 * Food blog
 
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=morales&theme=dark&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=morales0&theme=dark&include_all_commits=true&count_private=true&layout=compact)
 
 <!--
 **morales0/morales0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
