@@ -1,6 +1,6 @@
 ## Bienvenido 👋
 
-![](https://www.creativefabrica.com/wp-content/uploads/2021/06/14/Software-Developer-Flat-Icon-Graphics-13375448-1.jpg)
+<img src="https://www.creativefabrica.com/wp-content/uploads/2021/06/14/Software-Developer-Flat-Icon-Graphics-13375448-1.jpg" alt="drawing" width="350"/>
 I'm morales0 (aka Francisco) and I kinda like to code.
 
 ### My live projects 🌎
